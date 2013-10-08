@@ -1,0 +1,10 @@
+CPAN_AUTHOR=leont
+inherit perl
+
+NAME="perl-ExtUtils-Helpers"
+VERSION=0.021
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl module-building portability routines"
+DESCRIPTION="This Perl module provides various portable helper functions for
+module-building modules."
